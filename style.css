@@ -288,6 +288,7 @@ div.inquire a {
         }
     
         div.writeup h1 {
+            margin: 0;
             font-size: 2.1rem;
             max-width: 11em;
         }
